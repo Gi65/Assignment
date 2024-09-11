@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-11T21:24:56 IST" name="Suite" finished-at="2024-09-11T21:25:26 IST" duration-ms="30251">
+  <suite started-at="2024-09-11T21:33:04 IST" name="Suite" finished-at="2024-09-11T21:33:33 IST" duration-ms="28759">
     <groups>
     </groups>
-    <test started-at="2024-09-11T21:24:56 IST" name="Test" finished-at="2024-09-11T21:25:26 IST" duration-ms="30251">
+    <test started-at="2024-09-11T21:33:04 IST" name="Test" finished-at="2024-09-11T21:33:33 IST" duration-ms="28759">
       <class name="Practice1.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:24:56 IST" name="setUp" finished-at="2024-09-11T21:25:12 IST" duration-ms="16845" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:33:04 IST" name="setUp" finished-at="2024-09-11T21:33:21 IST" duration-ms="16828" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="unsuccessfulLogin()[pri:1, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:25:13 IST" name="unsuccessfulLogin" finished-at="2024-09-11T21:25:16 IST" duration-ms="3586" status="PASS">
+        <test-method signature="unsuccessfulLogin()[pri:1, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:33:21 IST" name="unsuccessfulLogin" finished-at="2024-09-11T21:33:24 IST" duration-ms="3027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- unsuccessfulLogin -->
-        <test-method signature="specialcharactersLogin()[pri:2, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:25:16 IST" name="specialcharactersLogin" finished-at="2024-09-11T21:25:20 IST" duration-ms="3450" status="PASS">
+        <test-method signature="specialcharactersLogin()[pri:2, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:33:24 IST" name="specialcharactersLogin" finished-at="2024-09-11T21:33:27 IST" duration-ms="2931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- specialcharactersLogin -->
-        <test-method signature="emptyFieldsLogin()[pri:3, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:25:20 IST" name="emptyFieldsLogin" finished-at="2024-09-11T21:25:22 IST" duration-ms="2163" status="PASS">
+        <test-method signature="emptyFieldsLogin()[pri:3, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:33:27 IST" name="emptyFieldsLogin" finished-at="2024-09-11T21:33:29 IST" duration-ms="2280" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- emptyFieldsLogin -->
-        <test-method signature="successfullLogin()[pri:4, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:25:22 IST" name="successfullLogin" finished-at="2024-09-11T21:25:24 IST" duration-ms="2483" status="PASS">
+        <test-method signature="successfullLogin()[pri:4, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:33:29 IST" name="successfullLogin" finished-at="2024-09-11T21:33:32 IST" duration-ms="2559" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- successfullLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:25:24 IST" name="tearDown" finished-at="2024-09-11T21:25:26 IST" duration-ms="1665" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T21:33:32 IST" name="tearDown" finished-at="2024-09-11T21:33:33 IST" duration-ms="1056" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

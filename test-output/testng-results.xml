@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T11:02:40 IST" name="Suite" finished-at="2024-09-11T11:03:11 IST" duration-ms="30925">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T11:02:40 IST" name="Test" finished-at="2024-09-11T11:03:11 IST" duration-ms="30925">
+      <class name="Practice1.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T11:02:40 IST" name="setUp" finished-at="2024-09-11T11:03:00 IST" duration-ms="20029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="unsuccessfulLogin()[pri:1, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T11:03:00 IST" name="unsuccessfulLogin" finished-at="2024-09-11T11:03:04 IST" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsuccessfulLogin -->
+        <test-method signature="specialLogin()[pri:2, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T11:03:04 IST" name="specialLogin" finished-at="2024-09-11T11:03:07 IST" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specialLogin -->
+        <test-method signature="emptyLogin()[pri:3, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T11:03:07 IST" name="emptyLogin" finished-at="2024-09-11T11:03:09 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyLogin -->
+        <test-method signature="successfullLogin()[pri:4, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T11:03:09 IST" name="successfullLogin" finished-at="2024-09-11T11:03:10 IST" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Practice1.LoginTest@21282ed8]" started-at="2024-09-11T11:03:10 IST" name="tearDown" finished-at="2024-09-11T11:03:11 IST" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Practice1.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
